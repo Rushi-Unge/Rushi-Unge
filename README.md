@@ -12,31 +12,21 @@ Welcome to my GitHub profile! I'm passionate about creating innovative and impac
 
 💡 Projects:
 
-S.H.A.K.T.I: A cutting-edge drone tracking system that stores and transmits live flight data, making drones smarter and more efficient.
-
 Expense Tracker: A modern, responsive web app to help individuals and teams track, manage, and optimize their expenses.
 
 Favorite Quotes Website: A curated platform for storing, sharing, and discovering motivational quotes to inspire others.
 
 Uber Clone: A ride-hailing service with real-time driver-passenger matching and payment processing built using React, Node.js, and MongoDB.
 
-🌐 Portfolio: Rushikesh's Portfolio
-
-📈 GitHub Stats
-
 🔧 Skills & Tools
-Languages: JavaScript, Python, SQL, HTML, CSS
-Frameworks/Libraries: ReactJS, Node.js, ExpressJS, Next.js, TailwindCSS, Bootstrap
-Database: MongoDB, PostgreSQL, MySQL
-Version Control: Git, GitHub, GitLab
-Tools: Visual Studio Code, Docker, Postman, Nginx, Firebase
-Cloud/Platforms: AWS, Azure, Google Cloud, Heroku, Raspberry Pi
-DevOps: Jenkins, Kubernetes, CI/CD Pipelines
+Languages: JavaScript, Python, SQL, HTML, CSS,C,Java
+Frameworks/Libraries: ReactJS, Node.js, ExpressJS, Next.js, TailwindCSS
+Database: MongoDB, MySQL
+Version Control: Git, GitHub
+Tools: Visual Studio Code,Postman, Firebase
 📫 Let's Connect!
-🌐 Website: Rushikesh's Portfolio
-💼 LinkedIn: linkedin.com/in/RushikeshUnge
-📩 Email: RushikeshUnge@example.com
-🧑‍💻 Twitter: @RushikeshUnge
+💼 LinkedIn: www.linkedin.com/in/rushi-unge
+📩 Email: rushikeshunge@gmail.com
 ✨ Fun Facts About Me
 🚀 Tech Enthusiast: Always exploring new frameworks, tools, and programming paradigms to stay ahead of the curve.
 🌍 Global Thinker: I believe in building scalable solutions that can impact the world positively and make technology more accessible.
