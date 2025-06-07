@@ -1,34 +1,28 @@
-👋 Hello, I'm Rushikesh Unge
-🚀 Software Engineer | Backend Developer | MERN Stack Enthusiast
+👋 Hi, I'm Rushikesh Unge
+Software Engineer | Backend Developer | MERN Stack Enthusiast
 
-Welcome to my GitHub profile! I'm passionate about creating innovative and impactful software solutions. Whether it's crafting clean, scalable backend systems, building seamless frontend experiences, or working with cutting-edge technologies, I strive to make every project a step toward making the digital world better.
+Welcome to my GitHub! I love building clean, scalable, and impactful software—whether it’s crafting powerful backends or building intuitive frontends.
 
-🛠 About Me
-💻 Expertise: Backend Development, MERN Stack (MongoDB, Express.js, React.js, Node.js), APIs, Data Structures, Cloud Services, and DevOps.
+🛠 Tech I Work With
+Languages: JavaScript, Python, SQL, C, Java
 
-🌟 Passion: Building creative, responsive, and user-friendly web applications that solve real-world problems.
+Stack: MERN (MongoDB, Express, React, Node)
 
-🔧 Current Focus: Building scalable backend systems, mastering cloud computing, and exploring machine learning integration.
+Tools: Git, GitHub, Postman, Firebase, VS Code
 
-💡 Projects:
+Others: MySQL, TailwindCSS
 
-Expense Tracker: A modern, responsive web app to help individuals and teams track, manage, and optimize their expenses.
+🚀 What I'm Up To
+Building backend systems that scale
 
-Favorite Quotes Website: A curated platform for storing, sharing, and discovering motivational quotes to inspire others.
+Exploring cloud computing & DevOps
 
-Uber Clone: A ride-hailing service with real-time driver-passenger matching and payment processing built using React, Node.js, and MongoDB.
+Tinkering with machine learning integration
 
-🔧 Skills & Tools
-Languages: JavaScript, Python, SQL, HTML, CSS,C,Java
-Frameworks/Libraries: ReactJS, Node.js, ExpressJS, Next.js, TailwindCSS
-Database: MongoDB, MySQL
-Version Control: Git, GitHub
-Tools: Visual Studio Code,Postman, Firebase
+📌 Projects I'm Proud Of
+Expense Tracker – A simple way to manage expenses
+
+Uber Clone – Real-time ride-hailing platform
+
 📫 Let's Connect!
-💼 LinkedIn: www.linkedin.com/in/rushi-unge
-📩 Email: rushikeshunge@gmail.com
-✨ Fun Facts About Me
-🚀 Tech Enthusiast: Always exploring new frameworks, tools, and programming paradigms to stay ahead of the curve.
-🌍 Global Thinker: I believe in building scalable solutions that can impact the world positively and make technology more accessible.
-🎮 Coder by Day, Gamer by Night: When I'm not coding, you can find me playing strategic video games or learning new coding challenges.
-📚 Always Learning: I enjoy reading books on personal growth, leadership, and, of course, software development.
+🔗 LinkedIn • 📬 rushikeshunge@gmail.com
