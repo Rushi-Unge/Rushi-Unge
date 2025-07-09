@@ -59,9 +59,23 @@
 - 📊 **Spotify Data Analysis** – Dashboards with Power BI based on audio features
 - 💸 **Expense Tracker** – Responsive full-stack app for managing personal finances
 - 🚗 **Uber Clone** – MERN stack-based ride-hailing platform with real-time tracking
-- 📚 **Quotes App** – Minimal app to save and share motivational quotes
-- 🚁 **SHAKTI Project** – Drone telemetry dashboard using WebSockets and MongoDB
-- 🔧 **Internship @ Prym Aerospace** – Built dashboards and APIs for drone data systems
+
+---
+
+## 👨‍💼 Internship Experience
+
+**🔧 Software Intern @ Prym Aerospace**  
+Worked on mission-critical software for drone telemetry and data visualization.
+
+**Key Contributions:**
+- Developed backend APIs for capturing and storing drone flight data.
+- Created real-time dashboards using WebSockets to visualize metrics like altitude, speed, and orientation.
+- Implemented secure data handling and optimized MongoDB queries.
+
+**What I Learned:**
+- Hands-on experience with real-world, production-grade systems.
+- Improved my understanding of real-time data processing and socket communication.
+- Gained insights into teamwork, agile development, and collaborative coding environments.
 
 ---
 
@@ -93,8 +107,8 @@
 
 ---
 
-## 🗺️ Contribution Graph
+## 📽️ Game Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushi-unge&theme=react-dark" />
+  <img src="https://github-contribution-graph-generator.vercel.app/api/pacman?username=Rushi-unge&theme=github-dark" />
 </div>
