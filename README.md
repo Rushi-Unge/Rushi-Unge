@@ -15,86 +15,96 @@
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 Tech Stack with Icons
 
 ### 🖥️ Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Next.js, Redux, Tailwind CSS
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+</p>
 
 ### ⚙️ Backend
-- Node.js, Express.js, REST APIs
-- WebSockets, Socket.IO
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" />
+</p>
 
 ### 🛢️ Databases
-- MongoDB, Mongoose
-- MySQL, SQLite
-
-### ⚒️ Tools & Platforms
-- Git, GitHub, Postman, VS Code
-- Linux, Firebase, Docker
-- Figma, Netlify, Vercel
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
+</p>
 
 ### 🧠 Programming & Data
-- Python, Jupyter, NumPy, Pandas, Kaggle
-- Power BI (Data dashboards)
+<p>
+  <img src="https://skillicons.dev/icons?i=py" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+</p>
+
+### 🧰 Tools & DevOps
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" />
+</p>
+
+---
+
+## 🔍 Certifications
+- ✅ React - Meta (Coursera)
+- ✅ MongoDB for Developers - MongoDB University
+- ✅ Power BI Essentials - Udemy
+- ✅ Git & GitHub Mastery - freeCodeCamp
+
+---
+
+## 🎓 Education
+**Bachelor of Computer Applications**  
+Deogiri College, Chhatrapati Sambhajinagar
 
 ---
 
 ## 🧠 Projects
 
 ### 💬 Real-Time Chat App
-**Tech**: MERN, Socket.IO, MongoDB
-- Developed a full-duplex real-time chat app with authentication, private rooms, and typing indicators
-- Implemented Socket.IO for live message updates and user presence tracking
+**Tech**: MERN, Socket.IO, MongoDB  
+Live chat with user presence, private chat rooms, and message storage.
 
 ### 🎧 Spotify Data Analysis Dashboard
-**Tech**: Power BI, Kaggle, Python, Pandas
-- Created an interactive dashboard analyzing 6 years of Spotify artist and track data
-- Visualized trends in popularity, genre, audio features, and listener insights
+**Tech**: Power BI, Kaggle, Python  
+6-year Spotify trend visualization by genre, artist, and audio features.
 
 ### 💸 Expense Tracker
-**Tech**: React, Node.js, MongoDB
-- Built a responsive full-stack app for logging expenses with real-time charts and filters
-- Integrated JWT-based user auth and cloud deployment
+**Tech**: React, Node.js, MongoDB  
+Track and categorize expenses with real-time charts and JWT-based login.
 
-### 🚗 Uber Clone (Ride Booking App)
-**Tech**: MERN, Google Maps API, Socket.IO
-- Designed a ride-hailing platform with driver-client login, real-time location tracking
-- Enabled booking, trip tracking, and dynamic routing
+### 🚗 Uber Clone
+**Tech**: MERN, Google Maps API, Socket.IO  
+Ride-booking with driver-client login, real-time map, and trip status.
 
-### 🚁 Drone Telemetry System (SHAKTI Project)
-**Tech**: MERN, WebSockets, MongoDB, Charts.js
-- Built a real-time telemetry system for drones with live metrics: yaw, pitch, altitude, temperature
-- Backend APIs to store, filter, and display drone flight logs with visuals
-
-### 📊 Spotify ML Recommendation System *(Capstone)*
-**Tech**: Python, Pandas, Scikit-learn
-- Built a model recommending songs based on audio features like tempo, energy, valence
-- Performed clustering and cosine similarity to offer artist-based track suggestions
-
-### 🏡 Home Service Marketplace
-**Tech**: MERN, Socket.IO, Razorpay API
-- Created a booking platform for electricians, plumbers, and carpenters
-- Integrated real-time chat, service dashboard, payment gateway, and review system
-
-### 📌 PRYM Attendance System
-**Tech**: Android (Java), GPS, REST APIs
-- Android-based app for OrangeHRM to allow punch in/out with location tracking
-- Built backend APIs for employee attendance syncing with GPS
-
-### 🎯 10-Minute Streak Video App *(Social Productivity)*
-**Tech**: MERN, WebRTC, Socket.IO
-- Platform for friends to maintain streaks by completing a 10-min video call daily
-- Video duration must be 10 minutes for the streak to count (tracked & validated)
-
+### 📌 Employee Management System
+**Tech**: Java, JDBC, MySQL
+Console-based CRUD app to manage employee records: add, view, update, and delete operations connected with a MySQL database.
 ---
 
 ## 👨‍💼 Internship
 
 ### 🔧 Software Intern @ Prym Aerospace (SHAKTI Project)
-- Designed backend infrastructure to collect & analyze real-time drone telemetry data
-- Created socket-based dashboards for IMU metrics (altitude, roll, pitch, temperature)
-- Worked with agile sprints, version control, and cloud-based deployment
+- Built REST APIs and real-time dashboard for drone flight metrics
+- Implemented WebSocket logic for telemetry data streaming
+- Optimized MongoDB queries and secured user endpoints
 
 ---
 
@@ -118,7 +128,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rushi-unge&show_icons=true&theme=radical" height="150" />
   <img src="https://streak-stats.demolab.com?user=Rushi-unge&theme=radical&hide_border=false" height="150" />
@@ -127,20 +136,10 @@
 ---
 
 ## 🧩 Contribution Graph
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushi-unge&theme=react-dark" />
 </div>
 
 ---
 
-## 🎯 Goals for 2025
-
-- Contribute to open-source projects and developer communities
-- Launch a SaaS-based web product
-- Master cloud-native deployment (AWS/GCP + Docker)
-- Crack top tech companies as a backend/full-stack developer
-
----
-
-> ⚡ *Thanks for visiting my profile! Let's build something amazing together.*
+> ⚡ *Thanks for visiting my profile! Let’s connect and build something amazing together.*
