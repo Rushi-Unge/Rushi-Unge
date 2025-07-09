@@ -87,16 +87,14 @@
 ## 🌟 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rushi-unge&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Rushi-unge&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rushi-unge&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Rushi-unge&theme=dracula&hide_border=false&border_radius=5" height="150" />
 </div>
 
 ---
 
-## 💍 Contribution Graph
+## 🗺️ Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rushi-unge/Rushi-unge/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rushi-unge/Rushi-unge/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Rushi-unge/Rushi-unge/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushi-unge&theme=react-dark" />
+</div>
