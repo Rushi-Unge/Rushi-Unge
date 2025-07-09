@@ -110,5 +110,5 @@ Worked on mission-critical software for drone telemetry and data visualization.
 ## 📽️ Game Contribution Graph
 
 <div align="center">
-  <img src="https://github-contribution-graph-generator.vercel.app/api/pacman?username=Rushi-unge&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushi-unge&theme=react-dark" />
 </div>
