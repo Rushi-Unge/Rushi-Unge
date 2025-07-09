@@ -1,114 +1,146 @@
-<h2 align="center">Hi there, I'm Rushikesh Unge 👋</h2>
+### <h2 align="center">Hi there, I'm Rushikesh Unge 👋</h2>
 
 <p align="center">
-  <b>Software Engineer | Backend Developer | MERN Stack Enthusiast</b>
+  <b>Software Engineer | MERN Stack Developer | Real-Time System Enthusiast</b>
 </p>
 
 ---
 
-## 💻 About Me
+## 💡 About Me
 
-- 💻 MERN Stack Developer (MongoDB, Express, React, Node)
-- 🧠 Passionate about solving problems and building clean, scalable apps
-- 🌱 Continuously learning new technologies and improving skills
-- 🚀 Focused on writing clean code and building impactful digital products
-
----
-
-## 🛠️ Tech I Work With
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
-</div>
+- 🔧 Full-stack developer specializing in the **MERN** stack (MongoDB, Express, React, Node.js)
+- 🚀 Passionate about building **scalable**, **real-time**, and **data-driven** web applications
+- 📚 Lifelong learner with interests in **backend architecture**, **data visualization**, and **cloud integration**
+- 💬 Open to collaborating on impactful projects and solving real-world problems
 
 ---
 
-## 🚀 What I’m Currently Focused On
+## 🧩 Tech Stack
 
-- Building real-time and scalable backend systems
-- Enhancing user experience with responsive frontend designs
-- Exploring cloud infrastructure and integrating ML into web apps
+### 🖥️ Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Next.js, Redux, Tailwind CSS
 
----
+### ⚙️ Backend
+- Node.js, Express.js, REST APIs
+- WebSockets, Socket.IO
 
-## 📌 Projects Overview
+### 🛢️ Databases
+- MongoDB, Mongoose
+- MySQL, SQLite
 
-- 💬 **Real-time Chat App** – Built with Socket.IO for live communication
-- 📊 **Spotify Data Analysis** – Dashboards with Power BI based on audio features
-- 💸 **Expense Tracker** – Responsive full-stack app for managing personal finances
-- 🚗 **Uber Clone** – MERN stack-based ride-hailing platform with real-time tracking
+### ⚒️ Tools & Platforms
+- Git, GitHub, Postman, VS Code
+- Linux, Firebase, Docker
+- Figma, Netlify, Vercel
 
----
-
-## 👨‍💼 Internship Experience
-
-**🔧 Software Intern @ Prym Aerospace**  
-Worked on mission-critical software for drone telemetry and data visualization.
-
-**Key Contributions:**
-- Developed backend APIs for capturing and storing drone flight data.
-- Created real-time dashboards using WebSockets to visualize metrics like altitude, speed, and orientation.
-- Implemented secure data handling and optimized MongoDB queries.
-
-**What I Learned:**
-- Hands-on experience with real-world, production-grade systems.
-- Improved my understanding of real-time data processing and socket communication.
-- Gained insights into teamwork, agile development, and collaborative coding environments.
+### 🧠 Programming & Data
+- Python, Jupyter, NumPy, Pandas, Kaggle
+- Power BI (Data dashboards)
 
 ---
 
-## 📢 Let's Connect
+## 🧠 Projects
+
+### 💬 Real-Time Chat App
+**Tech**: MERN, Socket.IO, MongoDB
+- Developed a full-duplex real-time chat app with authentication, private rooms, and typing indicators
+- Implemented Socket.IO for live message updates and user presence tracking
+
+### 🎧 Spotify Data Analysis Dashboard
+**Tech**: Power BI, Kaggle, Python, Pandas
+- Created an interactive dashboard analyzing 6 years of Spotify artist and track data
+- Visualized trends in popularity, genre, audio features, and listener insights
+
+### 💸 Expense Tracker
+**Tech**: React, Node.js, MongoDB
+- Built a responsive full-stack app for logging expenses with real-time charts and filters
+- Integrated JWT-based user auth and cloud deployment
+
+### 🚗 Uber Clone (Ride Booking App)
+**Tech**: MERN, Google Maps API, Socket.IO
+- Designed a ride-hailing platform with driver-client login, real-time location tracking
+- Enabled booking, trip tracking, and dynamic routing
+
+### 🚁 Drone Telemetry System (SHAKTI Project)
+**Tech**: MERN, WebSockets, MongoDB, Charts.js
+- Built a real-time telemetry system for drones with live metrics: yaw, pitch, altitude, temperature
+- Backend APIs to store, filter, and display drone flight logs with visuals
+
+### 📊 Spotify ML Recommendation System *(Capstone)*
+**Tech**: Python, Pandas, Scikit-learn
+- Built a model recommending songs based on audio features like tempo, energy, valence
+- Performed clustering and cosine similarity to offer artist-based track suggestions
+
+### 🏡 Home Service Marketplace
+**Tech**: MERN, Socket.IO, Razorpay API
+- Created a booking platform for electricians, plumbers, and carpenters
+- Integrated real-time chat, service dashboard, payment gateway, and review system
+
+### 📌 PRYM Attendance System
+**Tech**: Android (Java), GPS, REST APIs
+- Android-based app for OrangeHRM to allow punch in/out with location tracking
+- Built backend APIs for employee attendance syncing with GPS
+
+### 🎯 10-Minute Streak Video App *(Social Productivity)*
+**Tech**: MERN, WebRTC, Socket.IO
+- Platform for friends to maintain streaks by completing a 10-min video call daily
+- Video duration must be 10 minutes for the streak to count (tracked & validated)
+
+---
+
+## 👨‍💼 Internship
+
+### 🔧 Software Intern @ Prym Aerospace (SHAKTI Project)
+- Designed backend infrastructure to collect & analyze real-time drone telemetry data
+- Created socket-based dashboards for IMU metrics (altitude, roll, pitch, temperature)
+- Worked with agile sprints, version control, and cloud-based deployment
+
+---
+
+## 🌍 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rushi-unge/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/Rushi_Unge" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="30" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/rushi_unge/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:rushikeshunge@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 ---
 
-## 🌟 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rushi-unge&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Rushi-unge&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rushi-unge&show_icons=true&theme=radical" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Rushi-unge&theme=radical&hide_border=false" height="150" />
 </div>
 
 ---
 
-## 📽️ Game Contribution Graph
+## 🧩 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushi-unge&theme=react-dark" />
 </div>
+
+---
+
+## 🎯 Goals for 2025
+
+- Contribute to open-source projects and developer communities
+- Launch a SaaS-based web product
+- Master cloud-native deployment (AWS/GCP + Docker)
+- Crack top tech companies as a backend/full-stack developer
+
+---
+
+> ⚡ *Thanks for visiting my profile! Let's build something amazing together.*
