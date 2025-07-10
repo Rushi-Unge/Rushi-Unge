@@ -1,25 +1,27 @@
 <h1 align="center">Hi there, I'm Rushikesh Unge 👋</h1>
+
 <p align="center">
-  💻 Software Developer • ⚙️ MERN Stack Engineer • 🚀 Real-Time Systems Enthusiast
+  💻 Software Developer • ⚙️ MERN Stack Engineer • 🚀 Real-Time System Enthusiast
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I’m Rushikesh Unge, a passionate full-stack developer focused on building scalable backend systems, real-time dashboards, and intuitive frontend experiences.
+Hi! I'm **Rushikesh Unge**, a passionate Software Engineer skilled in the **MERN stack** with a deep interest in building **real-time**, **data-driven**, and **scalable applications**. I thrive on writing clean code and turning complex problems into seamless digital solutions.
 
-💡 I specialize in the MERN stack and love solving real-world problems through clean, maintainable code.  
-🎯 I turn backend logic into seamless interfaces and real-time features.  
-💬 Always learning, always building.
+- 💡 Bridging backend logic with intuitive UI
+- ⚡ Specializing in real-time systems with WebSocket
+- 📊 Explorer of data visualization tools like Power BI
+- 🌱 Always learning, always shipping
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 🛠 Tech Stack
 
-### 👩‍💻 Frontend Development
+### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,tailwind,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ### 🔙 Backend & APIs
@@ -34,7 +36,7 @@ Hi! I’m Rushikesh Unge, a passionate full-stack developer focused on building 
 
 ### ⚙️ Dev Tools & Deployment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,netlify,linux" />
 </p>
 
 ### 💻 Programming Languages
@@ -46,8 +48,8 @@ Hi! I’m Rushikesh Unge, a passionate full-stack developer focused on building 
 
 ## 🎓 Education
 
-- 🎓 **Bachelor of Computer Applications** – Deogiri College, Chhatrapati Sambhajinagar  
-- 🧠 HSC – 78.83%  
+- 🎓 **Bachelor of Computer Applications** – Deogiri College, Chhatrapati Sambhajinagar
+- 🧠 HSC – 78.83%
 - 📘 SSC – 84.60%
 
 ---
@@ -56,39 +58,49 @@ Hi! I’m Rushikesh Unge, a passionate full-stack developer focused on building 
 
 ### 🔧 Backend Developer – Prym Aerospace Pvt. Ltd.
 📍 On-Site | 🗓️ Oct 2024 – Jan 2025  
-- Developed REST APIs and drone telemetry backend using Node.js & MongoDB  
-- Implemented real-time dashboards using Socket.IO and React  
-- Integrated live drone simulation with telemetry data (pitch, yaw, roll)
+- Developed RESTful APIs using Node.js and Express
+- Implemented WebSocket with Socket.IO to stream real-time drone telemetry (pitch, yaw, roll, GPS)
+- Integrated data with React dashboards and interactive simulations
+- Optimized backend performance and ensured scalable deployments
 
 ### 📢 Campus Ambassador – IIT Bombay
 📍 Remote | 🗓️ Aug 2023 – Dec 2023  
-- Organized promotional activities and collaborated with student groups  
-- Built brand presence through tech events and outreach
+- Coordinated campus tech events and hackathons
+- Strengthened communication, collaboration, and outreach
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🎧 [Spotify Data Analysis](https://github.com/Rushi-Unge/Spotify-Data-Analysis-)
-Power BI dashboard for global music trends and artist insights.
+## 🎧 [Spotify Data Analysis](https://github.com/Rushi-Unge/Spotify-Data-Analysis-)
+**Tech**: Power BI, Python, Desna Dataset  
+- Built a multi-page dashboard visualizing 6 years of Spotify trends
+- Showcased artist popularity, audio features, and recommendation logic
+- Used Power BI to create charts from Kaggle + Desna datasets
 
-### 📒 [Milk Diary Khatabook](https://github.com/Rushi-Unge/Milk-diary-khatabook)
-Track milk records, auto-calculate cost, and send SMS updates.
+## 📒 [Milk Diary Khatabook](https://github.com/Rushi-Unge/Milk-diary-khatabook)
+**Tech**: Next.js, MongoDB, Tailwind CSS  
+- A digital khatabook to log daily milk entries for vendors
+- Calculates price dynamically and sends SMS confirmations
 
-### 💬 [Chat App](https://github.com/Rushi-Unge/OctanetTask2)
-Realtime messaging app built with Socket.IO and MERN.
+## 💬 [Real-Time Chat App](https://github.com/Rushi-Unge/OctanetTask2)
+**Tech**: React, Node.js, Socket.IO  
+- Real-time messaging using WebSocket
+- Frontend with message input, real-time updates, and minimal design
 
-### 🚖 [Uber Clone](https://github.com/Rushi-Unge/Uber-Clone)
-Ride-booking simulation with maps, roles, and trip logs.
+## 🚖 [Uber Clone](https://github.com/Rushi-Unge/Uber-Clone)
+**Tech**: MERN, Google Maps API  
+- Simulates trip booking with driver-client login flow
+- Displays routes and live trip status using Map APIs
 
-### 🍕 [Pizza Sales BI Report](https://github.com/Rushi-Unge/Python-Analysis)
-SQL-powered Power BI dashboard for sales insights.
+## 📈 [Pizza Sales Power BI Report](https://github.com/Rushi-Unge/Python-Analysis)
+**Tech**: SQL, Power BI  
+- Created dashboards to track order patterns, revenue, and category sales
+- Clean visualization with SQL-backed metrics
 
-### 📹 [VideoTube Backend](https://github.com/Rushi-Unge/VideoTube-Only-Backend)
-REST API for video uploads, user management, and reactions.
-
-### 🧠 [Java DSA Practice](https://github.com/Rushi-Unge/Java-DSA)
-Daily data structures and algorithms with Java.
+## 📹 [VideoTube Backend](https://github.com/Rushi-Unge/VideoTube-Only-Backend)
+**Tech**: Node.js, MongoDB, Express  
+- REST API handling user authentication, video upload, likes & comments
 
 ---
 
@@ -97,48 +109,48 @@ Daily data structures and algorithms with Java.
 - ✅ **Power BI Essentials** – Skill Course  
 - ✅ **Python for Beginners** – Simplilearn  
 - ✅ **C Programming** – MKCL  
-- ✅ **Certification in Management** – TISS  
+- ✅ **Management & Soft Skills** – TISS  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rushi-Unge&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Rushi-Unge&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 🔄 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushi-Unge&theme=react-dark" />
+</p>
 
 ---
 
 ## 🌱 Currently Exploring
 
-- ☁️ Cloud Infrastructure (Render, Vercel, Netlify)  
-- 🔐 Security Patterns: JWT, OAuth 2.0  
-- ⚙️ CI/CD & Dockerized Deployments  
-- 🔁 Microservices & Scalable Architectures  
-
----
-
-## 🌟 Featured Projects
-
-### 🧠 CrackIt.dev – Interview Prep Platform  
-• 200+ DSA questions with filters  
-• Online code compiler & progress tracking  
-• MERN + Socket.IO + MongoDB
-
-### 🏡 Ashiyana – Real Estate Platform  
-• Role-based dashboards, wishlist, property bookings  
-• Leaflet Maps, JWT Auth, Email/SMS Alerts
-
-### 🚁 Shakti – Drone Telemetry System  
-• Real-time telemetry (pitch, roll, yaw, altitude)  
-• Live dashboard using React + WebSocket + Leaflet.js
+- ☁️ CI/CD and Docker  
+- 🔐 OAuth2.0 & Web App Security  
+- ⚙️ WebSocket Scaling  
+- 🧩 Microservice Architectures
 
 ---
 
 ## 🤝 Let’s Collaborate
 
-I’m open to:
+I'm open to:
 
-- 🌍 MERN Stack Projects  
-- 🛍️ Real-Time Web Applications  
-- 📊 Data Visualization & BI Dashboards  
-- 🔧 Backend APIs & Systems Design  
+- 🧠 Real-time system apps  
+- 🌐 Full-stack SaaS tools  
+- 📊 Data visualizations and dashboards  
+- ✨ Projects solving real-world problems
 
 ---
 
-## 📬 Connect with Me
+## 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:rushikeshunge@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -148,14 +160,4 @@ I’m open to:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rushi-Unge&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Rushi-Unge&theme=tokyonight" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rushi-Unge&theme=react-dark" height="200" />
-</p>
-
----
-
-> ✨ *Thanks for scrolling! Let’s build something impactful together.*
+> ✨ *Thanks for visiting my profile! Let’s innovate and build something impactful together.*
